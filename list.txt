@@ -73,3 +73,4 @@ m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-t
 ! New edits
 m.youtube.com##.rich-section-content
 m.youtube.com##ytm-reel-shelf-renderer.item
+m.youtube.com##ytm-item-section-renderer:nth-of-type(2)
